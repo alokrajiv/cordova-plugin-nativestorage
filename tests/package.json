@@ -1,0 +1,14 @@
+{
+    "name": "cordova-plugin-nativestorage-tests",
+    "version": "2.3.2",
+    "description": "",
+    "cordova": {
+        "id": "cordova-plugin-nativestorage-tests",
+        "platforms": []
+    },
+    "keywords": [
+        "ecosystem:cordova"
+    ],
+    "author": "Alok Rajiv <mail@alokrajiv.com>",
+    "license": "Apache 2.0"
+}
