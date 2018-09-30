@@ -4,7 +4,12 @@
     "description": "",
     "cordova": {
         "id": "cordova-plugin-nativestorage-tests",
-        "platforms": []
+        "platforms": [
+            "android",
+            "ios",
+            "browser",
+            "windows",
+            "osx"]
     },
     "keywords": [
         "ecosystem:cordova"
